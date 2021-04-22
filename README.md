@@ -1,5 +1,5 @@
 # ArpLoggerNet
-ARP log for windows
+ARP log for windows (Console application)
 
 Creates an ARP.log file in the application launch directory.
 
