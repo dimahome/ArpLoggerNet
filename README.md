@@ -17,14 +17,14 @@ Tested on windows server 2012 / windows 10
 
 ARPlogger.exe /?
 
->>ARPlogger. Ver 2.0
->>
->>Parses the ARP table and maintains a log file (ARP.log) with a list of new entries.
->>
->>Parameters:
->>
->>[/NotUpdateLog] | [-n]: New entries of APR table are displayed but not saved to the log file (APR.log).
->>                        Not added log entries will be displayed as new each time the program is started.
->>                        
->>[/ReturnAlways] | [-r]  If this parameter is specified, then in the absence of data, the program will return the '-' character. Otherwise, it outputs nothing.
+>ARPlogger. Ver 2.0
+>
+>Parses the ARP table and maintains a log file (ARP.log) with a list of new entries.
+>
+>Parameters:
+>
+>[/NotUpdateLog] | [-n]: New entries of APR table are displayed but not saved to the log file (APR.log).
+>                        Not added log entries will be displayed as new each time the program is started.
+>                        
+>[/ReturnAlways] | [-r]  If this parameter is specified, then in the absence of data, the program will return the '-' character. Otherwise, it outputs nothing.
 
