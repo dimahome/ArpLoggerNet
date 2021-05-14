@@ -24,7 +24,6 @@ ARPlogger.exe /?
 >>Parameters:
 >>
 >>[/NotUpdateLog] | [-n]: New entries of APR table are displayed but not saved to the log file (APR.log).
->>
 >>                        Not added log entries will be displayed as new each time the program is started.
 >>                        
 >>[/ReturnAlways] | [-r]  If this parameter is specified, then in the absence of data, the program will return the '-' character. Otherwise, it outputs nothing.
