@@ -5,9 +5,9 @@ Creates an ARP.log file in the application launch directory.
 
 example ARP.log file:
 
-2021-05-14 09:33:37 192.168.7.1 b8-69-f4-09-e7-ae IP+MAC
-
-2021-05-14 09:33:37 192.168.7.202 00-17-c8-67-93-06 IP+MAC KM679306
+>2021-05-14 09:33:37 192.168.7.1 b8-69-f4-09-e7-ae IP+MAC
+>
+>2021-05-14 09:33:37 192.168.7.202 00-17-c8-67-93-06 IP+MAC KM679306
 
 
 At each launch, it analyzes the output of "arp.exe -a" application and, 
